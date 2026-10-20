@@ -1,4 +1,9 @@
-<h1 align="center">Hi, I'm Moore 👋</h1> <p align="center"> <a href="https://github.com/MooreHaww"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Computer+engineering+student;Founder+of+Code+Nexus;Head+of+the+CS+Committee%2C+IEEE+BAU;Building+systems+from+the+hardware+up" alt="Typing animation"/></a> </p>
+<h1 align="center">Hi, I'm Moore 👋</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Computer+engineering+student;Founder+of+Code+Nexus;Head+of+the+CS+Committee%2C+IEEE+BAU;Building+systems+from+the+hardware+up" alt="Typing animation"/>
+</p>
+
 ---
 
 ### About me
