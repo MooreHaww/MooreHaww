@@ -14,9 +14,19 @@
 
 ### Tech
 
+**Used**
+
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,androidstudio,git,github,latex,unity" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,ts,js,html,css,nodejs,express,electron,vite,androidstudio,unity,unreal,git,github,latex,vscode,netlify,discord&perline=11" />
 </p>
+
+**Learning next**
+
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,raspberrypi,django,spring,postgres,sqlite,docker,kubernetes,githubactions,linux,bash,pytorch,huggingface,sklearn,fastapi,redis,neo4j,grafana,terraform,ansible&perline=10" />
+</p>
+
+Also on the list: MediaPipe, SolidWorks, MCP, llama.cpp, Qiskit, Verilog, Unsloth / QLoRA.
 
 ---
 
