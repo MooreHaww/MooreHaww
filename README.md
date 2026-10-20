@@ -8,9 +8,9 @@ Junior computer engineering student · Founder of Code Nexus · Head of the CS C
 
 ### About me
 
-- 🎓 Third-year computer engineering student, drawn to computer architecture, networks, and the theory behind AI
-- 📄 Author of *Quantization-Induced Degradation Scaling Laws*, a unified mathematical framework for predicting how much accuracy a model loses as it is quantized
-- 🏗️ Working toward becoming a software architect: building systems from the hardware up, from processors and protocols to full applications to simulations to tools to vision systems and everything in between tools
+- 🎓 Third-year computer engineering student, drawn to computer architecture, networks, and the theory behind AI.
+- 📄 Author of *Quantization-Induced Degradation Scaling Laws*, a unified mathematical framework for predicting how much accuracy a model loses as it is quantized.
+- 🏗️ Working toward becoming a software architect: building systems from the hardware up, from processors and protocols to full applications to simulations to tools to vision systems and everything in between tools.
 
 ### Tech
 
