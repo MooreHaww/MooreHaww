@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Moore 👋</h1>
 
 <p align="center">
-<a href="https://github.com/MooreHaww"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Computer+engineering+student;Founder+of+Code+Nexus;Head+of+the+CS+Committee%2C+IEEE+BAU;Building+systems+from+the+hardware+up" alt="Typing animation"/></a>
+Junior computer engineering student · Founder of Code Nexus · Head of the CS Committee, IEEE BAU
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ### Tech
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,ts,js,nodejs,electron,androidstudio,unity,git,github,latex,opencv,raspberrypi,docker,kubernetes,linux,pytorch,huggingface,django,spring,postgres,fastapi&perline=12" />
+<img width="100%" src="https://skillicons.dev/icons?i=java,python,cpp,cs,ts,js,nodejs,electron,androidstudio,unity,git,github,latex,opencv,raspberrypi,docker,kubernetes,linux,pytorch,bash,django,spring,postgres,fastapi&perline=12" />
 </p>
 
 ---
