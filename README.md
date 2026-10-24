@@ -6,7 +6,7 @@
 
 ---
 
-### About mee
+### About me
 
 - 🎓 Third-year computer engineering student, drawn to computer architecture, networks, and the theory behind AI.
 - 📄 Author of *Quantization-Induced Degradation Scaling Laws*, a unified mathematical framework for predicting how much accuracy a model loses as it is quantized.
